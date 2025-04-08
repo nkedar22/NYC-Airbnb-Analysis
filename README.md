@@ -85,21 +85,6 @@ The dataset contains **20,765 entries and 22 features**, including:
 5. **Host Behavior**:  
    - Some hosts manage **multiple listings**, indicating a trend toward professional hosting.
 
----
-
-## How to Run This Project
-1. Clone the repository:
-   ```bash
-
-   ```
-2. Install the required libraries:
-   ```bash
-   pip install pandas numpy matplotlib seaborn
-   ```
-3. Run the **Jupyter notebook** or **Python script**:
-   ```bash
-   jupyter notebook day23_airbnb_eda.ipynb
-   ```
 
 ---
 
@@ -123,17 +108,5 @@ The dataset contains **20,765 entries and 22 features**, including:
 
 ## Conclusion
 This project offers valuable insights into the New York Airbnb market, helping both guests and hosts make informed decisions. By using **EDA techniques**, we identified key trends and developed actionable recommendations. Future improvements can involve advanced analytics and predictive modeling to further enhance the findings.
-
----
-
-## License
-This project is open-source and licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use and modify the code.
-
----
-
-## Contact
-For any queries, feel free to reach out at:  
-- **GitHub**:   
-- **LinkedIn**:  
 
 ---
