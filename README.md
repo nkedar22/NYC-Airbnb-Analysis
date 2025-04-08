@@ -1,4 +1,4 @@
-### NYC-Airbnb-Analysis: New York 2024  
+### Airbnb-NYC-Analysis  
 
 ---
 
